@@ -3,14 +3,14 @@
 * `apt update`
 * `apt install git curl php -y`
 * `apt install git curl php wget -y`
-* `git clone https://github.com/lohithr373/LOHITH-.git`
-* `cd LOHITH`
-#### > Run : `bash LOHITH.sh`
+* `git clone https://github.com/lohithr373/lohithr.git`
+* `cd lohithr `
+#### > Run : `bash lohithr.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php -y ; git clone https://github.com/lohithr373/LOHITH-.git ; cd LOHITH ; bash LOHITH.sh
-apt update ; apt install git curl wget php -y ; git clone https://github.com/lohithr373/LOHITH-.git ; cd LOHITH ; bash LOHITH.sh
+apt update ; apt install git curl php -y ; git clone  https://github.com/lohithr373/lohithr.git ; cd lohithr ; bash lohithr.sh
+apt update ; apt install git curl wget php -y ; git clone https://github.com/lohithr373/lohithr.git ; cd lohithr ;  bash lohithr.sh
 ```
 <br>
 <p align="center">
